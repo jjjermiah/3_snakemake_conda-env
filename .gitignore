@@ -1,0 +1,10 @@
+# pixi environments
+.pixi
+*.egg-info
+
+.snakemake
+
+rawdata
+procdata
+results
+metadata
