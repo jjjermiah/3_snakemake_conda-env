@@ -6,7 +6,7 @@ aka requires use of `--use-conda` flag
 {
   "conda_env_file_path": "pipeline_env.yaml",
   "config_file_path": "config/config.yaml",
-  "git_url": "",
+  "git_url": "https://github.com/jjjermiah/3_snakemake_conda-env.git",
   "output_files": [
     "results/output.txt"
   ],
